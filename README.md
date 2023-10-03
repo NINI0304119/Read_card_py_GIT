@@ -39,3 +39,9 @@ ex : question ans | score | student ans |
                 1       0              1
                 2       0              2
                 1      10              1 -> 10
+
+result result_image0.jpeg is the opencv result 
+the black border is for scaling so can print in B5 A4 size please dont cover border by other thing
+the black block on upper right is for rotate to correct degree
+
+
