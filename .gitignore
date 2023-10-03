@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Read_card_py/Read_card_py_GUI_test.py
+/Read_card_py/Read_card_py_google_function.py
+/Read_card_py/Read_card_py_SET.py
+/Read_card_py/Read_card_py_google_function.py
+/Read_card_py/Read_card_py_GUI_test.py
+/Read_card_py/Read_card_py_SET.py
