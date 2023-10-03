@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Read_card_py", "Read_card_py\Read_card_py.pyproj", "{D07B12F9-06C7-4BD6-961A-EE3741FFDB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07B12F9-06C7-4BD6-961A-EE3741FFDB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07B12F9-06C7-4BD6-961A-EE3741FFDB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB1D426B-8B0C-48F5-A942-4C8357C16B04}
+	EndGlobalSection
+EndGlobal
